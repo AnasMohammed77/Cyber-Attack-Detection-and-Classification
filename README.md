@@ -17,7 +17,7 @@ The model was trained on the **UNSW-NB15** dataset and learns patterns from netw
 - Network traffic analysis
 - Data preprocessing and cleaning
 - Categorical feature encoding
-- Feature scaling
+  
 - Machine Learning classification using Random Forest
 - Model performance evaluation
 - Confusion Matrix visualization
